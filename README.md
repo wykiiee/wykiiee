@@ -19,5 +19,5 @@ Other: Git/GitHub, C Programming
  📫 Let's Connect
 
 📧 wycliffmasharia@gmail.com  
-💼 [LinkedIn Profile]  
+💼 [[LinkedIn Profile](https://www.linkedin.com/in/wycliff-masharia-ba40b9275/)]  
 📱 +254 790 732 448
