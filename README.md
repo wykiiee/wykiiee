@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Wycliff Macharia
 - 👀 I'm interested in Full-Stack Development, Web Design, Mobile Apps, and AI-Powered Solutions
-- 🌱 I'm currently completing my BSc in Computer Science at St. Paul's University
+- 🌱 I recently completed my BSc in Computer Science at St. Paul's University
 - 💞️ I'm looking to collaborate on innovative tech projects and open-source initiatives
 - 📫 You can reach me through email wycliffmasharia@gmail.com
 - 🌐 Portfolio: [wycliff-mash.vercel.app](https://wycliff-mash.vercel.app)
