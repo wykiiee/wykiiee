@@ -4,7 +4,6 @@
 - 💞️ I'm looking to collaborate on innovative tech projects and open-source initiatives
 - 📫 You can reach me through email wycliffmasharia@gmail.com
 - 🌐 Portfolio: [wycliff-macharia.vercel.app](https://wycliff-macharia.vercel.app/)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wykiiee&layout=compact&theme=radical)
 
 # Programming Languages & Technologies I'm Proficient In
 
